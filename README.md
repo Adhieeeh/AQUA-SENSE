@@ -8,4 +8,4 @@ As a Computer Science Engineering student, seeing a project built with extreme c
 
 
 This is the preview of the idea i have
-![](1781640106937.png)
+![](1781640106937.jpg)
